@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">短信模板编辑器</string>
+    <string-array name="template_names">
+        <item>通用问候模板</item>
+        <item>会议邀请模板</item>
+        <item>生日祝福模板</item>
+    </string-array>
+    <string-array name="template_contents">
+        <item>你好，{称呼}！希望你一切都好。{自定义内容}。祝好！</item>
+        <item>尊敬的{收件人}，诚邀您参加于{时间}在{地点}举行的{会议名称}。请准时参加。</item>
+        <item>亲爱的{寿星}，祝你生日快乐！愿你{祝福语}。</item>
+    </string-array>
+</resources>
